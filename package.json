@@ -1,0 +1,25 @@
+{
+  "name": "niggalearn",
+  "version": "1.0.0",
+  "description": "advanced past paper scraping for revision by GNAA. developed for a tool for myself initially, released to the public",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "igger"
+  ],
+  "author": "evan",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "cheerio": "^1.0.0-rc.12",
+    "colors": "^1.4.0",
+    "prompt-sync": "^4.2.0",
+    "request": "^2.88.2"
+  }
+}
